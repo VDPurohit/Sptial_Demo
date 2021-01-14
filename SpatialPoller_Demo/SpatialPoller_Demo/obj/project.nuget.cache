@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0m6cX5TQHfCcZu+B4fr186Fv0E45dQo44/er14QQ1zJSMPAN4VyD1qOYxwwO01N6E8PqxyuR/emguOxmpFtnNg==",
+  "success": true,
+  "projectFilePath": "D:\\FRAUAS_Study\\SE _Exercise\\SpatialPoller_Demo\\SpatialPoller_Demo\\SpatialPoller_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\puroh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\puroh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\puroh\\.nuget\\packages\\neocortexapi\\1.0.10\\neocortexapi.1.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
